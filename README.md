@@ -26,9 +26,7 @@
 - [https://tiangong.kunlun.com/](https://tiangong.kunlun.com/) - 天工 AI 助手，天工大模型
 - [https://xinghuo.xfyun.cn/](https://xinghuo.xfyun.cn/) - 讯飞星火认知大模型
 - [https://moss.fastnlp.top/](https://moss.fastnlp.top/) - Moss，复旦团队出品
-- [https://www.so.com/zt/invite.html](https://www.so.com/zt/invite.html) - 360 智脑，360 出品
-- [https://github.com/THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B 清华大学唐杰团队开发
-
+- 
 ### 其它大模型汇总
 
 - [https://dittin.com/](https://dittin.com/)
